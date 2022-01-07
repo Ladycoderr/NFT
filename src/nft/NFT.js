@@ -133,7 +133,7 @@ export default function NFT() {
                 <div className="row">
                 
                     <div className="col-lg-4 col-md-12 col-sm-12 order-2 order-lg-1 order-md-2">							
-                        <div className="page_sidebar hide-23">
+                        <div className="page_sidebar hide-23 color">
                             
                             <form className="form-inline addons mb-3">
                                 <input className="form-control" type="search" placeholder="Search Courses" aria-label="Search"/>
@@ -214,7 +214,7 @@ export default function NFT() {
                             
                         </div>
                         
-                        <div className="page_sidebar hidden-md-down">
+                        <div className="page_sidebar hidden-md-down color1">
                             <h4 className="side_title">Related Products</h4>
                             <div className="related_items mb-4">
                                 <div className="product_item">
@@ -223,13 +223,13 @@ export default function NFT() {
                                     </div>
                                     <div className="info">
                                         <h6 className="product-title"><a href="#">The Source of Learning and Development</a></h6>
-                                        <div className="woo_rating">
+                                        {/* <div className="woo_rating">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
-                                        </div>
+                                        </div> */}
                                         <span className="price"><p className="price_ver">$99.00<del>$149.00</del>
                                     </p></span></div>
                                 </div>	
@@ -239,13 +239,13 @@ export default function NFT() {
                                     </div>
                                     <div className="info">
                                         <h6 className="product-title"><a href="#">Full Web Designing Course with 20% Offer</a></h6>
-                                        <div className="woo_rating">
+                                        {/* <div className="woo_rating">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
-                                        </div>
+                                        </div> */}
                                         <span className="price"><p className="price_ver">$89.00<del>$179.00</del>
                                     </p></span></div>
                                 </div>
@@ -255,13 +255,13 @@ export default function NFT() {
                                     </div>
                                     <div className="info">
                                         <h6 className="product-title"><a href="#">The Source of Learning Advance WordPress</a></h6>
-                                        <div className="woo_rating">
+                                        {/* <div className="woo_rating">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
-                                        </div>
+                                        </div> */}
                                         <span className="price"><p className="price_ver">$199.00<del>$279.00</del>
                                     </p></span></div>
                                 </div>
@@ -271,13 +271,13 @@ export default function NFT() {
                                     </div>
                                     <div className="info">
                                         <h6 className="product-title"><a href="#">Advance Magento & Drupal Development</a></h6>
-                                        <div className="woo_rating">
+                                        {/* <div className="woo_rating">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
-                                        </div>
+                                        </div> */}
                                         <span className="price"><p className="price_ver">$599.00<del>$999.00</del>
                                     </p></span></div>
                                 </div>
@@ -332,7 +332,7 @@ export default function NFT() {
                             <div className="col-lg-4 col-md-4 col-sm-6">
                         
                                 <div className="shop_grid">
-                                    <div className="shop_status hot">Hot</div>
+                                    {/* <div className="shop_status hot">Hot</div> */}
                                     <div className="shop_grid_thumb">
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
@@ -445,7 +445,7 @@ export default function NFT() {
                             <div className="col-lg-4 col-md-4 col-sm-6">
                         
                                 <div className="shop_grid">
-                                    <div className="shop_status hot">Hot</div>
+                                    {/* <div className="shop_status hot">Hot</div> */}
                                     <div className="shop_grid_thumb">
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
@@ -474,7 +474,7 @@ export default function NFT() {
                             <div className="col-lg-4 col-md-4 col-sm-6">
                         
                                 <div className="shop_grid">
-                                    <div className="shop_status sell">New</div>
+                                    {/* <div className="shop_status sell">New</div> */}
                                     <div className="shop_grid_thumb">
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
@@ -531,7 +531,7 @@ export default function NFT() {
                             <div className="col-lg-4 col-md-4 col-sm-6">
                         
                                 <div className="shop_grid">
-                                    <div className="shop_status hot">Hot</div>
+                                    {/* <div className="shop_status hot">Hot</div> */}
                                     <div className="shop_grid_thumb">
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
