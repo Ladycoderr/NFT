@@ -77,8 +77,8 @@ export default function NFT() {
                                         </li>
                                     </ul>
                                     
-                                    <h4 className="side_title">Instructors</h4>
-                                    <ul className="no-ul-list mb-3">
+                                    {/* <h4 className="side_title">Instructors</h4> */}
+                                    {/* <ul className="no-ul-list mb-3">
                                         <li>
                                             <input id="a-1" className="checkbox-custom" name="a-1" type="checkbox"/>
                                             <label htmlFor="a-1" className="checkbox-custom-label">Keny White (4)</label>
@@ -103,7 +103,7 @@ export default function NFT() {
                                             <input id="a-9" className="checkbox-custom" name="a-9" type="checkbox"/>
                                             <label htmlFor="a-9" className="checkbox-custom-label">Icon</label>
                                         </li>
-                                    </ul>
+                                    </ul> */}
                                     
                                     <h4 className="side_title">Price</h4>
                                     <ul className="no-ul-list mb-3">
@@ -219,7 +219,7 @@ export default function NFT() {
                             <div className="related_items mb-4">
                                 <div className="product_item">
                                     <div className="thumbnail">
-                                        <a href="#"><img src="https://via.placeholder.com/700x700" className="img-fluid" alt=""/></a>
+                                        <a href="#"><img src="https://www.fabionodariphoto.com/wp-content/uploads/2021/04/vendere-foto-nft-750x500.jpg" className="img-fluid" alt=""/></a>
                                     </div>
                                     <div className="info">
                                         <h6 className="product-title"><a href="#">The Source of Learning and Development</a></h6>
@@ -230,12 +230,12 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
                                         </div> */}
-                                        <span className="price"><p className="price_ver">$99.00<del>$149.00</del>
+                                        <span className="price"><p className="price_ver">ETH99.00<del>ETH149.00</del>
                                     </p></span></div>
                                 </div>	
                                 <div className="product_item">
                                     <div className="thumbnail">
-                                        <a href="#"><img src="https://via.placeholder.com/700x700" className="img-fluid" alt=""/></a>
+                                        <a href="#"><img src="https://www.fabionodariphoto.com/wp-content/uploads/2021/04/vendere-foto-nft-750x500.jpg" className="img-fluid" alt=""/></a>
                                     </div>
                                     <div className="info">
                                         <h6 className="product-title"><a href="#">Full Web Designing Course with 20% Offer</a></h6>
@@ -246,12 +246,12 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                         </div> */}
-                                        <span className="price"><p className="price_ver">$89.00<del>$179.00</del>
+                                        <span className="price"><p className="price_ver">ETH89.00<del>ETH179.00</del>
                                     </p></span></div>
                                 </div>
                                 <div className="product_item">
                                     <div className="thumbnail">
-                                        <a href="#"><img src="https://via.placeholder.com/700x700" className="img-fluid" alt=""/></a>
+                                        <a href="#"><img src="https://www.fabionodariphoto.com/wp-content/uploads/2021/04/vendere-foto-nft-750x500.jpg" className="img-fluid" alt=""/></a>
                                     </div>
                                     <div className="info">
                                         <h6 className="product-title"><a href="#">The Source of Learning Advance WordPress</a></h6>
@@ -262,12 +262,12 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
                                         </div> */}
-                                        <span className="price"><p className="price_ver">$199.00<del>$279.00</del>
+                                        <span className="price"><p className="price_ver">ETH199.00<del>ETH279.00</del>
                                     </p></span></div>
                                 </div>
                                 <div className="product_item">
                                     <div className="thumbnail">
-                                        <a href="#"><img src="https://via.placeholder.com/700x700" className="img-fluid" alt=""/></a>
+                                        <a href="#"><img src="https://www.fabionodariphoto.com/wp-content/uploads/2021/04/vendere-foto-nft-750x500.jpg" className="img-fluid" alt=""/></a>
                                     </div>
                                     <div className="info">
                                         <h6 className="product-title"><a href="#">Advance Magento & Drupal Development</a></h6>
@@ -278,7 +278,7 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
                                         </div> */}
-                                        <span className="price"><p className="price_ver">$599.00<del>$999.00</del>
+                                        <span className="price"><p className="price_ver">ETH599.00<del>ETH999.00</del>
                                     </p></span></div>
                                 </div>
                             </div>
@@ -337,7 +337,7 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">The Shop Time</a></h4>
+                                        <h4 className="sg_rate_title">The Shop Time</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
@@ -345,13 +345,13 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$179.00</span>
+                                        <span className="sg_rate theme-cl">ETH179.00</span>
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -364,21 +364,21 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">Jodi Picoult</a></h4>
+                                        <h4 className="sg_rate_title">Jodi Picoult</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
-                                            <i className="fas fa-star filled"></i>
+                                            <i className="fas fa-star filled"></i> 
                                             <i className="fas fa-star"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$199.00</span>
+                                        <span className="sg_rate theme-cl">ETH199.00</span>
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -392,7 +392,7 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">Ken Follett</a></h4>
+                                        <h4 className="sg_rate_title">Ken Follett</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
@@ -400,14 +400,14 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$129.00</span>
+                                        <span className="sg_rate theme-cl">ETH129.00</span>
                                        
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -421,7 +421,7 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">Charllots Web 2</a></h4>
+                                        <h4 className="sg_rate_title">Charllots Web 2</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
@@ -429,13 +429,13 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$249.00</span>
+                                        <span className="sg_rate theme-cl">ETH249.00</span>
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -450,7 +450,7 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">The Midnight Witness</a></h4>
+                                        <h4 className="sg_rate_title">The Midnight Witness</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
@@ -458,13 +458,13 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$359.00</span>
+                                        <span className="sg_rate theme-cl">ETH359.00</span>
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -479,7 +479,7 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">All The Light See</a></h4>
+                                        <h4 className="sg_rate_title">All The Light See</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
@@ -487,13 +487,13 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$69.00</span>
+                                        <span className="sg_rate theme-cl">ETH69.00</span>
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -507,7 +507,7 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">The Famous Five</a></h4>
+                                        <h4 className="sg_rate_title">The Famous Five</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
@@ -515,13 +515,13 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$250.00</span>
+                                        <span className="sg_rate theme-cl">ETH250.00</span>
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -536,7 +536,7 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">The Fitzerland</a></h4>
+                                        <h4 className="sg_rate_title">The Fitzerland</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
@@ -544,13 +544,13 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$149.00</span>
+                                        <span className="sg_rate theme-cl">ETH149.00</span>
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -564,7 +564,7 @@ export default function NFT() {
                                         <a href="#"><img src="https://cryptocurrencycompany.files.wordpress.com/2021/12/nfts-development.jpg" className="img-fluid" alt="" /></a>
                                     </div>
                                     <div className="shop_grid_caption">
-                                        <h4 className="sg_rate_title"><a href="#">The Ruskill Bond</a></h4>
+                                        <h4 className="sg_rate_title">The Ruskill Bond</h4>
                                         {/* <div className="shop_grid_rate">
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
@@ -572,13 +572,13 @@ export default function NFT() {
                                             <i className="fas fa-star filled"></i>
                                             <i className="fas fa-star filled"></i>
                                         </div> */}
-                                        <span className="sg_rate theme-cl">$249.00</span>
+                                        <span className="sg_rate theme-cl">ETH249.00</span>
                                     </div>
                                     <div className="shop_grid_action">
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i className="ti-shopping-cart"></i></a>
-                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Quick View"><i className="ti-zoom-in"></i></a>
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Wishlist"><i className="ti-heart"></i></a> */}
+                                        <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="fas fa-shopping-cart"></i></a>
+                                        {/* <a href="#" className="btn btn-shop" data-toggle="tooltip" data-placement="top" title="Compare"><i className="ti-reload"></i></a> */}
                                     </div>
                                 </div>
                                 
@@ -587,7 +587,7 @@ export default function NFT() {
                         </div>
                         
                    
-                        <div className="row">
+                        {/* <div className="row">
                             <div className="col-lg-12 col-md-12 col-sm-12">
                                 
                                 <div className="row">
@@ -615,7 +615,7 @@ export default function NFT() {
                                 </div>
                                 
                             </div>
-                        </div>
+                        </div> */}
                         
                         
                     </div>

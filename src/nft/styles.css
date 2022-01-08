@@ -7667,11 +7667,18 @@ h3.pa-name {
 .shop_grid_caption {
     display: block;
     text-align: center;
+    
 }
 .shop_grid_caption .sg_rate_title {
     font-size: 17px;
 	line-height:1.2;
     margin-bottom:0px;
+    background: linear-gradient(to right, #c33764 0%,#1d2671 100%);
+    color: white;
+    border-radius: 25px;
+    padding: 10px;
+    
+    
 }
 .shop_grid_caption .sg_rate {
     font-size: 20px;
@@ -7696,8 +7703,8 @@ h3.pa-name {
     opacity:0;
 }
 .shop_grid_action .btn-shop {
-    width:35px;
-    height:35px;
+    width:45px;
+    height:45px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
